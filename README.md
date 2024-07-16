@@ -48,8 +48,8 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 | ☑      | [OHsint](https://tryhackme.com/room/ohsint)                                   | CTF                 |                                          |
 | ☑      | [Vulnversity](https://tryhackme.com/room/vulnversity)                         | CTF                 | [done](write-ups/level2/Vulnversity)     |
 | ☑      | [Blue](https://tryhackme.com/room/blue)                                       | CTF                 |                                          |
-| ☐      | [Simple CTF](https://tryhackme.com/room/easyctf)                              | CTF                 | [done](write-ups/level2/Simple%20CTF)    |
-| ☐      | [Bounty Hacker](https://tryhackme.com/room/cowboyhacker)                      | CTF                 | [done](write-ups/level2/Bounty%20Hacker) |
+| ☑      | [Simple CTF](https://tryhackme.com/room/easyctf)                              | CTF                 | [done](write-ups/level2/Simple%20CTF)    |
+| ☑      | [Bounty Hacker](https://tryhackme.com/room/cowboyhacker)                      | CTF                 | [done](write-ups/level2/Bounty%20Hacker) |
 | ☐      | [Brute It](https://tryhackme.com/room/bruteit)                                | CTF                 |                                          |
 | ☐      | [Fowsniff CTF](https://tryhackme.com/room/ctf)                                | CTF                 |                                          |
 | ☐      | [Agent Sudo](https://tryhackme.com/room/agentsudoctf)                         | CTF                 |                                          |
