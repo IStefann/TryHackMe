@@ -50,9 +50,9 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 | ☑      | [Blue](https://tryhackme.com/room/blue)                                       | CTF                 |                                          |
 | ☑      | [Simple CTF](https://tryhackme.com/room/easyctf)                              | CTF                 | [done](write-ups/level2/Simple%20CTF)    |
 | ☑      | [Bounty Hacker](https://tryhackme.com/room/cowboyhacker)                      | CTF                 | [done](write-ups/level2/Bounty%20Hacker) |
-| ☐      | [Brute It](https://tryhackme.com/room/bruteit)                                | CTF                 |                                          |
-| ☐      | [Fowsniff CTF](https://tryhackme.com/room/ctf)                                | CTF                 |                                          |
-| ☐      | [Agent Sudo](https://tryhackme.com/room/agentsudoctf)                         | CTF                 |                                          |
+| ☑      | [Brute It](https://tryhackme.com/room/bruteit)                                | CTF                 |                                          |
+| ☑      | [Fowsniff CTF](https://tryhackme.com/room/ctf)                                | CTF                 |                                          |
+| ☑      | [Agent Sudo](https://tryhackme.com/room/agentsudoctf)                         | CTF                 |                                          |
 | ☐      | [The Cod Caper](https://tryhackme.com/room/thecodcaper)                       | CTF                 |                                          |
 | ☐      | [Ice](https://tryhackme.com/room/ice)                                         | CTF                 |                                          |
 | ☐      | [Lazy Admin](https://tryhackme.com/room/lazyadmin)                            | CTF                 | [done](write-ups/level3/Lazy%20Admin)    |
