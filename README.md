@@ -54,7 +54,7 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 | ☑      | [Fowsniff CTF](https://tryhackme.com/room/ctf)                                | CTF                 |                                          |
 | ☑      | [Agent Sudo](https://tryhackme.com/room/agentsudoctf)                         | CTF                 |                                          |
 | ☐      | [The Cod Caper](https://tryhackme.com/room/thecodcaper)                       | CTF                 |                                          |
-| ☐      | [Ice](https://tryhackme.com/room/ice)                                         | CTF                 |                                          |
+| ☑      | [Ice](https://tryhackme.com/room/ice)                                         | CTF                 |                                          |
 | ☐      | [Lazy Admin](https://tryhackme.com/room/lazyadmin)                            | CTF                 | [done](write-ups/level3/Lazy%20Admin)    |
 | ☐      | [Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)              | CTF                 |                                          |
 | ☐      | [Post Exploitation Basics](https://tryhackme.com/room/postexploit)            | CTF                 |                                          |
